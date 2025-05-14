@@ -16,24 +16,24 @@ This is a full-stack web application developed for the Web Developer Intern asse
 
 ### Frontend (Vue.js)
 Access the hosted frontend here:  
-[https://your-frontend-hosted-link.com](https://your-frontend-hosted-link.com)
+[https://codeplatform.co.ke/un/habitat/admin-dashboard](https://codeplatform.co.ke/un/habitat/admin-dashboard)
 
 ### Backend (Node.js API)
 Access the hosted API here:  
-[https://your-backend-api-link.com](https://your-backend-api-link.com)
+[https://codeplatform.co.ke/un/api](https://codeplatform.co.ke/un/api)
 
 ---
 
 ## JSON API Endpoints (Open Links)
 
 - All Projects:  
-  [https://your-backend-api-link.com/api/projects/all](https://your-backend-api-link.com/api/projects/all)
+  [https://codeplatform.co.ke/un/api/projects/all](https://codeplatform.co.ke/un/api/projects/all)
 
 - Projects by Country (example: Kenya):  
-  [https://your-backend-api-link.com/api/projects/country/kenya](https://your-backend-api-link.com/api/projects/country/kenya)
+  [https://codeplatform.co.ke/un/api/projects/country/kenya](https://codeplatform.co.ke/un/api/projects/country/kenya)
 
 - Projects by Approval Status (example: Approved):  
-  [https://your-backend-api-link.com/api/projects/Approval%20Status/Approved](https://your-backend-api-link.com/api/projects/Approval%20Status/Approved)
+  [https://codeplatform.co.ke/un/api/projects/approval-status/approved](https://codeplatform.co.ke/un/api/projects/approval-status/approved)
 
 ---
 
@@ -45,7 +45,7 @@ The dashboard includes:
 - Projects grouped by Theme
 
 Access the hosted dashboard here:  
-[https://your-frontend-hosted-link.com/dashboard](https://your-frontend-hosted-link.com/dashboard)
+[https://codeplatform.co.ke/un/habitat/projects](https://codeplatform.co.ke/un/habitat/projects)
 
 ---
 
